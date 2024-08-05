@@ -1,0 +1,28 @@
+.kepek_tartalom{
+  width: 1110px;
+  margin: auto;
+  background-color: rgb(255, 255, 255);
+}
+.kek_menu{
+  width: 1100px;
+  margin: auto;
+
+
+}
+
+.oldalso_menu{
+  width: 1200px;
+  margin: auto;
+  
+
+}
+
+.tablazat{
+  width: 1110px;
+  margin: auto;
+  
+
+}
+body {
+  background-image: url("hatter.jpg");
+}
